@@ -1,0 +1,9 @@
+[submodule "third_party/npcap"]
+	path = third_party/npcap
+	url = https://github.com/nmap/npcap.git
+[submodule "third_party/nano-signal-slot"]
+	path = third_party/nano-signal-slot
+	url = https://github.com/NoAvailableAlias/nano-signal-slot.git
+[submodule "third_party/rapidjson"]
+	path = third_party/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
